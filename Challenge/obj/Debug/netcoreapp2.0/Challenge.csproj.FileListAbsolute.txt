@@ -1,0 +1,11 @@
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\bin\Debug\netcoreapp2.0\Challenge.deps.json
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\bin\Debug\netcoreapp2.0\Challenge.runtimeconfig.json
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\bin\Debug\netcoreapp2.0\Challenge.runtimeconfig.dev.json
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\bin\Debug\netcoreapp2.0\Challenge.dll
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\obj\Debug\netcoreapp2.0\Challenge.csprojResolveAssemblyReference.cache
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\obj\Debug\netcoreapp2.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\obj\Debug\netcoreapp2.0\Challenge.AssemblyInfoInputs.cache
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\obj\Debug\netcoreapp2.0\Challenge.AssemblyInfo.cs
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\bin\Debug\netcoreapp2.0\Challenge.pdb
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\obj\Debug\netcoreapp2.0\Challenge.dll
+C:\Projetos\remoteAcess\Challenge\Challenge\Challenge\obj\Debug\netcoreapp2.0\Challenge.pdb
